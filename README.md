@@ -1,0 +1,2 @@
+# McCluskey
+test case
