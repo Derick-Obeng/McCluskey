@@ -24,26 +24,7 @@ This project implements the Quine-McCluskey algorithm for minimizing Boolean fun
 - Java Development Kit (JDK) for the original Java implementation.
 - Node.js for the JavaScript implementation.
 
-### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Derick-Obeng/McCluskey.git
-   cd McCluskey
-   ```
-
-2. For Java:
-   - Compile and run the Java program:
-     ```bash
-     javac QuineMcCluskey.java
-     java QuineMcCluskey
-     ```
-
-3. For JavaScript:
-   - Run the JavaScript program:
-     ```bash
-     node QuineMcCluskey.js
-     ```
 
 ### Usage
 
