@@ -4,7 +4,8 @@ test case
 
 ---
 
-# Quine-McCluskey Algorithm
+##
+Quine-McCluskey Algorithm
 
 This project implements the Quine-McCluskey algorithm for minimizing Boolean functions. The algorithm is used to simplify Boolean expressions, making them more efficient for digital circuit design.
 
