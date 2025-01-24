@@ -1,5 +1,5 @@
 # McCluskey
-test case
+
 
 
 ---
